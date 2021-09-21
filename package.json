@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "less": "^4.1.1"
+  },
+  "name": "less",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenJuul/M3-W4-D1-Demo.git"
+  },
+  "author": "M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MortenJuul/M3-W4-D1-Demo/issues"
+  },
+  "homepage": "https://github.com/MortenJuul/M3-W4-D1-Demo#readme",
+  "description": ""
+}
